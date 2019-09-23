@@ -1,0 +1,7 @@
+﻿  dbLib.cpp
+  main.cpp
+  processData.cpp
+  Generating Code...
+main.obj : error LNK2019: unresolved external symbol "void __cdecl LoadData(void * &)" (?LoadData@@YAXAAPAX@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl ReleaseData(void * &)" (?ReleaseData@@YAXAAPAX@Z) referenced in function _main
+C:\Users\USER\Desktop\CTDL ass1\ass1\Debug\ass1.exe : fatal error LNK1120: 2 unresolved externals
